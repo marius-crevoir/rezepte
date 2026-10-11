@@ -26,6 +26,13 @@
   function formatAmount(amount) { return formatter.format(Math.round(amount * 100) / 100); }
   function refresh() {
     output.textContent = String(currentServings);
+    const quantity = document.getElementById('bringServings');
+    if (quantity) quantity.textContent = String(currentServings);
+    document.querySelectorAll('[data-bring-link]').forEach(link => {
+      const url = new URL(link.href);
+      url.searchParams.set('requestedQuantity', String(currentServings));
+      link.href = url.toString();
+    });
     document.getElementById('decreaseServings').disabled = currentServings <= 1;
     document.getElementById('increaseServings').disabled = currentServings >= maxServings;
     document.querySelectorAll('[data-base-amount]').forEach(span => {
