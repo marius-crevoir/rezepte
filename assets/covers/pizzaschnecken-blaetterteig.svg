@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="760" viewBox="0 0 1000 760">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#ebd5bd"/><stop offset="1" stop-color="#dcb899"/></linearGradient>
+  <linearGradient id="pan" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#5c6661"/><stop offset="1" stop-color="#323c3b"/></linearGradient>
+  <radialGradient id="pastry"><stop stop-color="#f5cc82"/><stop offset=".73" stop-color="#e9a95c"/><stop offset="1" stop-color="#b66b37"/></radialGradient>
+  <g id="roll">
+    <ellipse cx="5" cy="12" rx="115" ry="94" fill="#302f2a" opacity=".20"/>
+    <path d="M-98 -23 C-111 -90 -27 -112 33 -93 C95 -84 118 -29 105 33 C96 86 24 105 -32 83 C-87 68 -108 23 -98 -23Z" fill="url(#pastry)" stroke="#c17b3e" stroke-width="9"/>
+    <path d="M-73 -29 C-51 -76 22 -82 65 -39 C102 6 67 66 12 62 C-41 59 -70 18 -46 -22 C-26 -55 25 -50 41 -13 C54 18 21 37 -7 25 C-25 18 -24 -2 -12 -14" fill="none" stroke="#8f4734" stroke-width="18" stroke-linecap="round"/>
+    <path d="M-68 -28 C-50 -63 19 -64 52 -31 C77 -2 55 48 13 44 C-24 43 -51 18 -35 -17 C-17 -42 18 -35 29 -7 C38 10 14 25 -4 14" fill="none" stroke="#f7db92" stroke-width="12" stroke-linecap="round"/>
+    <g fill="#c6654d" opacity=".8"><circle cx="-64" cy="26" r="10"/><circle cx="66" cy="15" r="9"/><circle cx="-1" cy="-57" r="10"/><circle cx="38" cy="57" r="8"/></g>
+    <g fill="#eec76a"><circle cx="-46" cy="-54" r="6"/><circle cx="70" cy="-33" r="7"/><circle cx="-66" cy="44" r="6"/></g>
+  </g>
+</defs>
+<rect width="1000" height="760" fill="url(#bg)"/>
+<path d="M0 105C220 5 395 99 568 51S859 24 1000 97V0H0Z" fill="#f5e8d6" opacity=".55"/>
+<rect x="112" y="89" width="782" height="595" rx="58" fill="#6e5e53" opacity=".20" transform="rotate(-4 503 385)"/>
+<g transform="rotate(-4 500 380)">
+<rect x="127" y="63" width="750" height="608" rx="58" fill="url(#pan)"/>
+<rect x="154" y="88" width="697" height="556" rx="40" fill="#c8c7b9"/>
+<path d="M171 118 L831 105 L812 627 L179 625Z" fill="#e8e1ce"/>
+<g>
+<use href="#roll" transform="translate(304 231) rotate(-17) scale(.87)"/>
+<use href="#roll" transform="translate(511 219) rotate(13) scale(.88)"/>
+<use href="#roll" transform="translate(717 240) rotate(-7) scale(.86)"/>
+<use href="#roll" transform="translate(291 432) rotate(22) scale(.89)"/>
+<use href="#roll" transform="translate(511 424) rotate(-16) scale(.88)"/>
+<use href="#roll" transform="translate(727 450) rotate(17) scale(.87)"/>
+<use href="#roll" transform="translate(507 578) rotate(12) scale(.52)"/>
+</g>
+<g fill="#41734b">
+  <ellipse cx="421" cy="323" rx="11" ry="28" transform="rotate(-24 421 323)"/>
+  <ellipse cx="440" cy="319" rx="11" ry="28" transform="rotate(34 440 319)"/>
+  <ellipse cx="635" cy="357" rx="12" ry="30" transform="rotate(31 635 357)"/>
+  <ellipse cx="655" cy="349" rx="12" ry="30" transform="rotate(-31 655 349)"/>
+  <ellipse cx="392" cy="564" rx="10" ry="26" transform="rotate(-17 392 564)"/>
+  <ellipse cx="409" cy="560" rx="10" ry="26" transform="rotate(39 409 560)"/>
+  <ellipse cx="767" cy="579" rx="9" ry="26" transform="rotate(47 767 579)"/>
+</g>
+</g>
+<g fill="#5e8a51"><ellipse cx="68" cy="596" rx="17" ry="46" transform="rotate(-28 68 596)"/><ellipse cx="94" cy="609" rx="17" ry="46" transform="rotate(32 94 609)"/><ellipse cx="911" cy="136" rx="17" ry="46" transform="rotate(18 911 136)"/><ellipse cx="937" cy="129" rx="17" ry="46" transform="rotate(-31 937 129)"/></g>
+</svg>
