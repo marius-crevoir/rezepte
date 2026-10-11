@@ -1,0 +1,86 @@
+{
+  "slug": "couscous-salat-hirtenkaese",
+  "title": "Couscous-Salat mit Hirtenkäse",
+  "subtitle": "Frischer Couscous-Salat mit Paprika, Gurken, Kirschtomaten und 200 g Hirtenkäse.",
+  "category": "Salate & Beilagen",
+  "tags": [
+    "Vegetarisch",
+    "Schnell",
+    "Salat"
+  ],
+  "minutes": 20,
+  "difficulty": "Einfach",
+  "servings": 6,
+  "image": "assets/covers/couscous-salat-hirtenkaese.svg",
+  "color": "#dee1c3",
+  "author": "Gaumenfreundin (angepasst)",
+  "ingredients": [
+    {
+      "amount": 250,
+      "unit": "g",
+      "name": "Couscous"
+    },
+    {
+      "amount": 275,
+      "unit": "ml",
+      "name": "Gemüsebrühe"
+    },
+    {
+      "amount": 1,
+      "unit": "",
+      "name": "rote Paprika"
+    },
+    {
+      "amount": 0.5,
+      "unit": "Packung",
+      "name": "Kirschtomaten (ca. 125 g bei einer 250-g-Packung)"
+    },
+    {
+      "amount": 2,
+      "unit": "",
+      "name": "Minigurken"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "gehackte Petersilie"
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Hirtenkäse"
+    },
+    {
+      "amount": 6,
+      "unit": "EL",
+      "name": "Olivenöl"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Weissweinessig"
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "frisch gepresster Zitronensaft"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Tomatenmark"
+    },
+    {
+      "amount": null,
+      "unit": "",
+      "name": "Salz und Pfeffer"
+    }
+  ],
+  "steps": [
+    "Gemüsebrühe aufkochen. Couscous in eine grosse Schüssel geben und mit den 275 ml heisser Gemüsebrühe übergiessen. Zugedeckt 5–10 Minuten quellen lassen, anschliessend mit einer Gabel auflockern.",
+    "Paprika entkernen und in kleine Stücke schneiden. Kirschtomaten halbieren und Minigurken klein würfeln. Petersilie fein hacken.",
+    "Olivenöl, Weissweinessig, Zitronensaft und Tomatenmark gründlich verrühren. Mit Salz und Pfeffer abschmecken.",
+    "Couscous mit Paprika, Kirschtomaten, Gurken und Petersilie vermischen. Das Dressing darübergeben und alles gründlich vermengen.",
+    "Hirtenkäse zerbröseln und gleichmässig über den fertigen Couscous-Salat streuen. Direkt servieren oder bis zum Verzehr kühl stellen."
+  ]
+}
