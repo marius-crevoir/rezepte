@@ -38,7 +38,11 @@
     grid.innerHTML = shown.map(r => {
       const liked = favorites.includes(r.slug);
       const href = `rezepte/${encodeURIComponent(r.slug)}/`;
-      return `<article class="recipe-card"><div class="recipe-image-wrap"><a href="${href}" aria-label="${esc(r.title)} ansehen"><img class="recipe-image" src="${esc(r.image)}" alt="Illustration: ${esc(r.title)}" loading="lazy"></a><button class="save-btn" type="button" data-favorite="${esc(r.slug)}" aria-label="${liked?'Aus Favoriten entfernen':'Als Favorit speichern'}" aria-pressed="${liked}">${heart}</button></div><div class="recipe-card-body"><div class="card-meta">${esc(r.category)} · ${esc(r.tags[0] || 'Rezept')}</div><h3 class="card-title"><a href="${href}">${esc(r.title)}</a></h3><p class="card-desc">${esc(r.subtitle)}</p><div class="card-footer"><strong>${clock} ${Number(r.minutes)} Min. <span aria-hidden="true">·</span> ${esc(r.difficulty)}</strong><a href="${href}" class="card-open" aria-label="${esc(r.title)} öffnen">↗</a></div></div></article>`;
+      const bringUrl = 'https://api.getbring.com/rest/bringrecipes/deeplink?' + new URLSearchParams({
+        url: new URL(href, window.location.href).href,
+        source: 'web', baseQuantity: String(r.servings), requestedQuantity: String(r.servings)
+      }).toString();
+      return `<article class="recipe-card"><div class="recipe-image-wrap"><a href="${href}" aria-label="${esc(r.title)} ansehen"><img class="recipe-image" src="${esc(r.image)}" alt="Illustration: ${esc(r.title)}" loading="lazy"></a><button class="save-btn" type="button" data-favorite="${esc(r.slug)}" aria-label="${liked?'Aus Favoriten entfernen':'Als Favorit speichern'}" aria-pressed="${liked}">${heart}</button></div><div class="recipe-card-body"><div class="card-meta">${esc(r.category)} · ${esc(r.tags[0] || 'Rezept')}</div><h3 class="card-title"><a href="${href}">${esc(r.title)}</a></h3><p class="card-desc">${esc(r.subtitle)}</p><div class="card-footer"><strong>${clock} ${Number(r.minutes)} Min. <span aria-hidden="true">·</span> ${esc(r.difficulty)}</strong><a href="${href}" class="card-open" aria-label="${esc(r.title)} öffnen">↗</a></div><a class="card-bring" href="${esc(bringUrl)}" aria-label="Zutaten für ${esc(r.title)} zu Bring! hinzufügen">Zutaten zu Bring! →</a></div></article>`;
     }).join('');
     counter.textContent = `${shown.length} ${shown.length === 1 ? 'Rezept' : 'Rezepte'}`;
     empty.hidden = shown.length !== 0;
