@@ -1,0 +1,64 @@
+{
+  "slug": "pizzaschnecken-blaetterteig",
+  "title": "Pizzaschnecken mit Blätterteig",
+  "subtitle": "Knusprige Blätterteigschnecken mit Tomaten, Basilikum und Käse – nach Wunsch mit Schinken.",
+  "category": "Snacks & Fingerfood",
+  "tags": [
+    "Party",
+    "Fingerfood"
+  ],
+  "minutes": 30,
+  "difficulty": "Einfach",
+  "servings": 16,
+  "image": "assets/covers/pizzaschnecken-blaetterteig.svg",
+  "color": "#e9c9aa",
+  "author": "Unsere Küche",
+  "ingredients": [
+    {
+      "amount": 0.5,
+      "unit": "Bund",
+      "name": "Basilikum"
+    },
+    {
+      "amount": 60,
+      "unit": "g",
+      "name": "Tomatenmark (zweifach konzentriert)"
+    },
+    {
+      "amount": 90,
+      "unit": "g",
+      "name": "Frischkäse (Doppelrahmstufe)"
+    },
+    {
+      "amount": 1,
+      "unit": "Prise",
+      "name": "Salz"
+    },
+    {
+      "amount": 1,
+      "unit": "Prise",
+      "name": "frisch gemahlener Pfeffer"
+    },
+    {
+      "amount": 1,
+      "unit": "Packung",
+      "name": "Blätterteig aus dem Kühlregal (ca. 275 g)"
+    },
+    {
+      "amount": 60,
+      "unit": "g",
+      "name": "geriebener Käse"
+    },
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Schinkenwürfel (optional)"
+    }
+  ],
+  "steps": [
+    "Backofen auf 180 °C Umluft (200 °C Ober-/Unterhitze) vorheizen. Basilikum waschen, trocken tupfen und die Blätter abzupfen. Die Hälfte fein schneiden. Tomatenmark mit Frischkäse, geschnittenem Basilikum, Salz und Pfeffer verrühren.",
+    "Blätterteig auf dem Backpapier ausrollen und gleichmässig mit der Tomaten-Frischkäse-Creme bestreichen. Am oberen Rand etwa 1 cm frei lassen. Mit 50 g geriebenem Käse und nach Wunsch mit den Schinkenwürfeln belegen.",
+    "Den belegten Blätterteig in 16 gleichmässige Streifen schneiden und jeden Streifen einzeln zu einer Schnecke aufrollen. Alternativ den gesamten Teig aufrollen und anschliessend in 16 Scheiben schneiden. Einzeln aufgerollte Streifen ergeben meist schönere Schnecken. Die Schnecken mit etwas Abstand auf einem mit Backpapier belegten Backblech verteilen.",
+    "Mit den restlichen 10 g geriebenem Käse bestreuen und im vorgeheizten Ofen etwa 20 Minuten goldbraun backen. Mit den übrigen Basilikumblättern garnieren und am besten warm servieren."
+  ]
+}
