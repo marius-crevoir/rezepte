@@ -1,0 +1,30 @@
+{
+  "slug": "ofengemuese-kichererbsen",
+  "title": "Ofengemüse mit Kichererbsen",
+  "subtitle": "Ein Blech, viel Geschmack und kaum Abwasch.",
+  "category": "Aus dem Ofen",
+  "tags": ["Vegan", "Alltag"],
+  "minutes": 40,
+  "difficulty": "Einfach",
+  "servings": 2,
+  "image": "assets/covers/ofengemuese.svg",
+  "color": "#e1e6cb",
+  "author": "Unsere Küche",
+  "ingredients": [
+    {"amount": 1, "unit": "Dose", "name": "Kichererbsen (ca. 240 g Abtropfgewicht)"},
+    {"amount": 2, "unit": "", "name": "Karotten"},
+    {"amount": 1, "unit": "", "name": "rote Peperoni"},
+    {"amount": 1, "unit": "", "name": "kleine Zucchini"},
+    {"amount": 2, "unit": "EL", "name": "Olivenöl"},
+    {"amount": 1, "unit": "TL", "name": "Paprikapulver"},
+    {"amount": 0.5, "unit": "TL", "name": "Kreuzkümmel"},
+    {"amount": null, "unit": "", "name": "Salz und Pfeffer"}
+  ],
+  "steps": [
+    "Backofen auf 210 °C Ober-/Unterhitze vorheizen. Ein Blech mit Backpapier auslegen.",
+    "Kichererbsen abspülen und gut abtropfen lassen. Gemüse waschen und in mundgerechte Stücke schneiden.",
+    "Alles mit Olivenöl, Paprikapulver, Kreuzkümmel, Salz und Pfeffer vermischen und locker auf dem Blech verteilen.",
+    "Etwa 25–30 Minuten rösten, bis das Gemüse gebräunt und die Kichererbsen leicht knusprig sind. Nach der Hälfte der Zeit wenden."
+  ],
+  "tip": "Dazu passen Zitronensaft und ein einfacher Dip aus pflanzlichem Joghurt."
+}

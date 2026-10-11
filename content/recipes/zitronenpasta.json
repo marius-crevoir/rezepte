@@ -1,0 +1,28 @@
+{
+  "slug": "zitronenpasta",
+  "title": "Zitronenpasta mit Parmesan",
+  "subtitle": "Frisch, cremig und in zwanzig Minuten auf dem Tisch.",
+  "category": "Pasta",
+  "tags": ["Vegetarisch", "Schnell"],
+  "minutes": 20,
+  "difficulty": "Einfach",
+  "servings": 2,
+  "image": "assets/covers/zitronenpasta.svg",
+  "color": "#eed8bd",
+  "author": "Unsere Küche",
+  "ingredients": [
+    {"amount": 200, "unit": "g", "name": "Spaghetti"},
+    {"amount": 1, "unit": "", "name": "Bio-Zitrone"},
+    {"amount": 35, "unit": "g", "name": "Parmesan, frisch gerieben"},
+    {"amount": 25, "unit": "g", "name": "Butter"},
+    {"amount": 0.5, "unit": "TL", "name": "schwarzer Pfeffer"},
+    {"amount": null, "unit": "", "name": "Salz"}
+  ],
+  "steps": [
+    "Spaghetti in gut gesalzenem Wasser bissfest kochen. Vor dem Abgiessen eine Tasse Kochwasser auffangen.",
+    "Die Schale der gewaschenen Zitrone fein abreiben und den Saft auspressen. Parmesan reiben.",
+    "Butter in einer grossen Pfanne bei niedriger Hitze schmelzen. Zitronenabrieb und schwarzen Pfeffer kurz darin ziehen lassen.",
+    "Spaghetti mit etwas Kochwasser in die Pfanne geben. Parmesan und nach Geschmack Zitronensaft unterrühren, bis eine glänzende Sauce entsteht. Bei Bedarf Kochwasser ergänzen und sofort servieren."
+  ],
+  "tip": "Den Zitronensaft schrittweise dazugeben – so wird die Sauce frisch, aber nicht zu sauer."
+}

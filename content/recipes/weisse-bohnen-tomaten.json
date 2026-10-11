@@ -1,0 +1,30 @@
+{
+  "slug": "weisse-bohnen-tomaten",
+  "title": "Weisse Bohnen in Tomatensauce",
+  "subtitle": "Wärmendes Wohlfühlessen aus dem Vorratsschrank.",
+  "category": "One Pot",
+  "tags": ["Vegan", "Vorrat"],
+  "minutes": 25,
+  "difficulty": "Einfach",
+  "servings": 2,
+  "image": "assets/covers/bohnen.svg",
+  "color": "#f0d8ca",
+  "author": "Unsere Küche",
+  "ingredients": [
+    {"amount": 1, "unit": "Dose", "name": "weisse Bohnen (ca. 240 g Abtropfgewicht)"},
+    {"amount": 1, "unit": "Dose", "name": "gehackte Tomaten (400 g)"},
+    {"amount": 1, "unit": "", "name": "kleine Zwiebel"},
+    {"amount": 1, "unit": "", "name": "Knoblauchzehe"},
+    {"amount": 1, "unit": "EL", "name": "Olivenöl"},
+    {"amount": 1, "unit": "TL", "name": "getrockneter Oregano"},
+    {"amount": null, "unit": "", "name": "Salz, Pfeffer und etwas Zucker"},
+    {"amount": null, "unit": "", "name": "frische Kräuter zum Servieren (optional)"}
+  ],
+  "steps": [
+    "Zwiebel und Knoblauch fein hacken. Bohnen in einem Sieb abspülen und abtropfen lassen.",
+    "Olivenöl in einem Topf erhitzen und die Zwiebel darin glasig dünsten. Knoblauch und Oregano kurz mitbraten.",
+    "Tomaten zugeben, leicht salzen und 10 Minuten offen köcheln lassen.",
+    "Bohnen unterrühren und weitere 5 Minuten erwärmen. Mit Salz, Pfeffer und bei Bedarf etwas Zucker abschmecken. Mit Kräutern und Brot servieren."
+  ],
+  "tip": "Wer es schärfer mag, gibt beim Anbraten eine Prise Chiliflocken dazu."
+}

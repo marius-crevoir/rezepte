@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="de-CH">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f7f5f0">
+  <meta name="description" content="Unsere gemeinsame Rezeptsammlung. Einfach kochen, zusammen geniessen und Zutaten mit Bring! einkaufen.">
+  <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="assets/icon-192.png">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="assets/styles.css">
+  <title>Unsere Küche — Rezepte, die bleiben</title>
+</head>
+<body class="page-home">
+  <header class="site-header shell">
+    <a class="brand" href="./" aria-label="Unsere Küche – Startseite"><span class="brand-mark" aria-hidden="true"><span></span></span><span>unsere <strong>küche.</strong></span></a>
+    <nav class="header-actions" aria-label="Navigation">
+      <button class="text-action" id="installBtn" type="button"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m0 0 4-4m-4 4-4-4M5 17v3h14v-3"/></svg><span>App installieren</span></button>
+      <a class="nav-heart" href="#rezepte" id="favoritesNav" aria-label="Favoriten anzeigen"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.8 8.4c0 4.3-8.8 10.1-8.8 10.1S3.2 12.7 3.2 8.4a4.7 4.7 0 0 1 8.8-2.2 4.7 4.7 0 0 1 8.8 2.2Z"/></svg><span class="favs-count" id="favoritesCount" hidden>0</span></a>
+    </nav>
+  </header>
+  <main>
+    <section class="hero shell" aria-labelledby="heroTitle">
+      <div class="hero-copy">
+        <div class="eyebrow"><span class="eyebrow-dot"></span> Für unsere Lieblingsgerichte</div>
+        <h1 id="heroTitle">Gut essen.<br><em>Immer wieder.</em></h1>
+        <p>Alles, was wir gerne kochen, an einem Ort. Ohne Zettelwirtschaft, mit genau den Zutaten, die wir brauchen.</p>
+        <a class="hero-link" href="#rezepte">Rezepte entdecken <span aria-hidden="true">↗</span></a>
+      </div>
+      <div class="hero-art" aria-hidden="true">
+        <div class="hero-art-caption">MIT LIEBE GESAMMELT <span>↗</span></div>
+        <div class="hero-plate"><div class="hero-food"></div><div class="hero-leaf hero-leaf-1"></div><div class="hero-leaf hero-leaf-2"></div><div class="hero-leaf hero-leaf-3"></div><div class="hero-lemon"></div><div class="hero-lemon hero-lemon-2"></div></div>
+        <div class="hero-sticker">Was gibt's<br>heute?</div>
+      </div>
+    </section>
+    <section id="rezepte" class="recipes-section shell" aria-labelledby="recipesTitle">
+      <div class="section-heading"><div><div class="eyebrow eyebrow-sub">UNSER REZEPTBUCH</div><h2 id="recipesTitle">Etwas Gutes kochen.</h2></div><div id="recipeCount" class="recipe-counter" aria-live="polite">Rezepte werden geladen …</div></div>
+      <div class="tools-bar"><label class="search-box" for="searchInput"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.7" cy="10.7" r="6.7"/><path d="m16 16 5 5"/></svg><input type="search" id="searchInput" placeholder="Rezept oder Zutat suchen …" autocomplete="off"><span class="search-shortcut" aria-hidden="true">⌕</span></label><button type="button" class="filter-favorites" id="favoriteToggle" aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.8 8.4c0 4.3-8.8 10.1-8.8 10.1S3.2 12.7 3.2 8.4a4.7 4.7 0 0 1 8.8-2.2 4.7 4.7 0 0 1 8.8 2.2Z"/></svg> Nur Favoriten</button></div>
+      <div class="chip-row" id="categoryFilters" aria-label="Rezeptkategorien"></div>
+      <div class="recipe-grid" id="recipeGrid" aria-live="polite"></div>
+      <div class="empty-state" id="emptyState" hidden><div class="empty-symbol">⌁</div><h3>Hier ist noch Platz.</h3><p>Für diese Suche haben wir kein passendes Rezept gefunden.</p><button class="solid-btn" id="resetFilters" type="button">Alle Rezepte anzeigen</button></div>
+      <noscript><p>Bitte aktiviere JavaScript, damit die Rezeptsuche funktioniert. Die einzelnen Rezeptseiten bleiben direkt erreichbar.</p></noscript>
+    </section>
+    <section class="bottom-note shell"><div class="bottom-note-icon" aria-hidden="true">✳</div><div><h3>Eine Sammlung, die mitwächst.</h3><p>Neue Rezepte landen hier automatisch. Für den Einkauf gibt es auf jeder Rezeptseite den Bring!-Button.</p></div><span>GUT GEKOCHT.</span></section>
+  </main>
+  <footer class="site-footer shell"><span>unsere küche. <span class="footer-muted">– ein gemeinsames Rezeptbuch</span></span><span>Mit Liebe und gutem Hunger.</span></footer>
+  <dialog class="install-dialog" id="installDialog"><div class="dialog-inner"><button class="dialog-close" id="closeDialog" aria-label="Schliessen" type="button">×</button><span class="eyebrow eyebrow-sub">IMMER DABEI</span><h2>Unsere Küche auf deinem Handy.</h2><p><strong>iPhone:</strong> In Safari auf «Teilen» und anschliessend «Zum Home-Bildschirm» tippen.</p><p><strong>Android:</strong> Im Browsermenü «App installieren» oder «Zum Startbildschirm hinzufügen» wählen.</p><button class="solid-btn" id="okDialog" type="button">Verstanden</button></div></dialog>
+  <script src="assets/app.js" defer></script>
+</body>
+</html>
