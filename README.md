@@ -25,7 +25,7 @@ Die drei Rezepte zu Beginn sind **Demorezepte** und können jederzeit entfernt o
 
 ## Bring! – wichtige Details
 
-Der offizielle Bring!-Button wird auf jeder Rezeptdetailseite über `https://platform.getbring.com/widgets/import.js` geladen. Jede Rezeptseite enthält bei Auslieferung bereits maschinenlesbares `schema.org/Recipe` JSON-LD mit **Name, Autor und Zutaten**. Das ist entscheidend, weil Bring! die öffentlich erreichbare Seite parst. Der Import überträgt die **im JSON-LD hinterlegten Ausgangsmengen**; Änderungen am interaktiven Portionsrechner aktualisieren die Bring!-Mengen nicht automatisch. Nach Veröffentlichung kann jedes Rezept über <https://www.getbring.com/de/integration-prufen> auf Parser-Kompatibilität geprüft werden.
+Auf jeder Rezeptdetailseite und jeder Rezeptkarte gibt es einen sichtbaren Bring!-Import-Link. Dieser verwendet den von Bring! offiziell dokumentierten GET-Endpunkt `https://api.getbring.com/rest/bringrecipes/deeplink` und benötigt kein externes Widget-Skript. Jede Rezeptseite enthält bei Auslieferung bereits maschinenlesbares `schema.org/Recipe` JSON-LD mit **Name, Autor und Zutaten**. Das ist entscheidend, weil Bring! die öffentlich erreichbare Seite parst. Der Portionsrechner aktualisiert den Import-Link mit `baseQuantity` und `requestedQuantity`, damit Bring! die gewählte Menge berechnen kann. Ob Bring! die Werte tatsächlich korrekt übernimmt, muss in der App getestet werden. Nach Veröffentlichung kann jedes Rezept über <https://www.getbring.com/de/integration-prufen> auf Parser-Kompatibilität geprüft werden.
 
 Der Bring!-Button kann auf lokalen Entwicklungsseiten ohne öffentlich abrufbare URL nicht vollständig getestet werden. Ein gemeinsamer Einkaufslisten-Import mehrerer Rezepte ist nicht implementiert.
 
