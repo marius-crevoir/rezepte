@@ -1,0 +1,128 @@
+{
+  "slug": "butter-chicken-aus-dem-ofen",
+  "title": "Indisches Butter Chicken aus dem Ofen",
+  "subtitle": "Würziges Hähnchen in cremiger Tomaten-Butter-Sauce, serviert mit Basmatireis.",
+  "category": "Hauptgerichte",
+  "tags": [
+    "Indisch",
+    "Aus dem Ofen"
+  ],
+  "minutes": 120,
+  "difficulty": "Mittel",
+  "servings": 3,
+  "image": "assets/covers/butter-chicken-aus-dem-ofen.svg",
+  "color": "#e4b98f",
+  "author": "VanessaV / Chefkoch",
+  "source": "https://www.chefkoch.de/rezepte/2766911428603391/Indisches-Butter-Chicken-aus-dem-Ofen.html",
+  "ingredients": [
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "Hähnchenbrust"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Paprikapulver"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Limetten- oder Zitronensaft"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Salz für die Marinade"
+    },
+    {
+      "amount": 150,
+      "unit": "g",
+      "name": "Naturjoghurt"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Cayennepfeffer für die Marinade"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Garam Masala"
+    },
+    {
+      "amount": 1,
+      "unit": "Knoblauchzehe",
+      "name": "für die Marinade"
+    },
+    {
+      "amount": 1,
+      "unit": "daumengrosses Stück",
+      "name": "Ingwer für die Marinade (optional)"
+    },
+    {
+      "amount": 4,
+      "unit": "EL",
+      "name": "Butter"
+    },
+    {
+      "amount": 1,
+      "unit": "",
+      "name": "Zwiebel"
+    },
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "passierte Tomaten"
+    },
+    {
+      "amount": 2,
+      "unit": "TL",
+      "name": "Zimt"
+    },
+    {
+      "amount": 1,
+      "unit": "TL",
+      "name": "Salz für die Sauce"
+    },
+    {
+      "amount": 2,
+      "unit": "TL",
+      "name": "Cayennepfeffer für die Sauce"
+    },
+    {
+      "amount": 1,
+      "unit": "Knoblauchzehe",
+      "name": "für die Sauce"
+    },
+    {
+      "amount": 1,
+      "unit": "daumengrosses Stück",
+      "name": "Ingwer für die Sauce (optional)"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Honig"
+    },
+    {
+      "amount": 150,
+      "unit": "ml",
+      "name": "Sahne"
+    },
+    {
+      "amount": 225,
+      "unit": "g",
+      "name": "Basmatireis (ungekocht)"
+    }
+  ],
+  "steps": [
+    "Hähnchenbrust würfeln. Die Knoblauchzehe für die Marinade und gegebenenfalls den optionalen Ingwer fein hacken. Mit Joghurt, Limetten- oder Zitronensaft, Paprikapulver, Salz, Cayennepfeffer und Garam Masala vermischen. Das Fleisch in der Marinade mindestens 1 Stunde im Kühlschrank ziehen lassen, idealerweise über Nacht.",
+    "Backofen auf 200 °C Ober-/Unterhitze vorheizen. Fleisch samt Marinade in eine Auflaufform geben und etwa 25 Minuten garen, bis das Hähnchen vollständig durchgegart ist (Kerntemperatur 74 °C).",
+    "Zwiebel würfeln und in 2 EL Butter glasig dünsten. Passierte Tomaten, Zimt, Salz, Cayennepfeffer, die fein gehackte Knoblauchzehe für die Sauce und gegebenenfalls den optionalen Ingwer hinzufügen. Zugedeckt bei niedriger Hitze 20 Minuten köcheln lassen.",
+    "Die restlichen 2 EL Butter, Honig und Sahne in die Sauce einrühren. Weitere 3 Minuten köcheln lassen.",
+    "Basmatireis nach Packungsanweisung garen, sodass er gleichzeitig mit dem Butter Chicken fertig wird.",
+    "Das gegarte Hähnchen in die Sauce geben und etwa 2 Minuten mitköcheln lassen. Gemeinsam mit dem Basmatireis servieren."
+  ],
+  "tip": "Mit insgesamt 3 TL Cayennepfeffer wird das Gericht sehr scharf. Für eine mildere Version die Menge deutlich reduzieren. Das Fleisch lässt sich bereits am Vorabend marinieren."
+}
