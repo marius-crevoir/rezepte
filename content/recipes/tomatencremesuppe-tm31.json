@@ -1,0 +1,38 @@
+{
+  "slug": "tomatencremesuppe-tm31",
+  "title": "Tomatencremesuppe aus dem Thermomix TM31",
+  "subtitle": "Klassische Tomatencremesuppe mit Butter, Crème fraîche und frischen Kräutern – mit genauen TM31-Einstellungen.",
+  "category": "Suppen",
+  "tags": ["Vegetarisch", "Thermomix TM31", "Schnell"],
+  "minutes": 25,
+  "difficulty": "Einfach",
+  "servings": 4,
+  "image": "assets/covers/tomatencremesuppe-tm31.svg",
+  "color": "#e6b5a1",
+  "author": "Unsere Küche · nach Thermomix Rezeptentwicklung",
+  "source": "https://www.rezeptwelt.de/suppen-rezepte/tomatencremesuppe/b4d5ba7u-e2d56-146895-cfcd2-e8jj860r",
+  "ingredients": [
+    {"amount": 1, "unit": "", "name": "Knoblauchzehe"},
+    {"amount": 50, "unit": "g", "name": "Zwiebel"},
+    {"amount": 30, "unit": "g", "name": "Butter"},
+    {"amount": 700, "unit": "g", "name": "reife Tomaten"},
+    {"amount": 70, "unit": "g", "name": "Tomatenmark"},
+    {"amount": 1, "unit": "TL", "name": "Kräutersalz (nach Geschmack weniger)"},
+    {"amount": 1, "unit": "TL", "name": "Zucker"},
+    {"amount": 1, "unit": "EL", "name": "Pizzagewürz"},
+    {"amount": 500, "unit": "ml", "name": "Wasser"},
+    {"amount": 1, "unit": "Würfel", "name": "Gemüsebrühe für 500 ml"},
+    {"amount": 100, "unit": "g", "name": "Crème fraîche"},
+    {"amount": 3, "unit": "Stängel", "name": "Basilikum"},
+    {"amount": 4, "unit": "Stängel", "name": "Petersilie"}
+  ],
+  "steps": [
+    "Knoblauch und Zwiebel schälen, Zwiebel halbieren. Im Mixtopf mit geschlossenem Deckel und eingesetztem TM31-Messbecher 3 Sek. / Stufe 5 hacken. Mit dem Spatel nach unten schieben.",
+    "Butter zufügen und 2 Min. 30 Sek. / Varoma / Stufe 2 dünsten.",
+    "Tomaten waschen, Strünke entfernen und vierteln. Mit Tomatenmark, zunächst wenig Kräutersalz, Zucker und Pizzagewürz zugeben. 5 Sek. / Stufe 5 zerkleinern.",
+    "Wasser und Brühwürfel hinzufügen. 10 Min. / 100 °C / Stufe 2 garen; bei sehr kalten Zutaten gegebenenfalls verlängern.",
+    "Kräuterblätter abzupfen, mit Crème fraîche zugeben und Deckel samt TM31-Messbecher schliessen. Bei Stufe 1 beginnen, mindestens 3 Sekunden warten, dann langsam auf Stufe 8 erhöhen und etwa 30 Sekunden cremig pürieren. Messbecher bei heisser Suppe nicht festhalten; kein Turbo. Vor dem Öffnen auf Stufe 1 zurückdrehen, mindestens 3 Sekunden warten und das Messer vollständig zum Stillstand kommen lassen.",
+    "Probieren, bei Bedarf mit dem restlichen Kräutersalz abschmecken und servieren."
+  ],
+  "tip": "Aromatische, vollreife Tomaten sind entscheidend; alternativ 700 g Dosentomaten samt Saft verwenden. Im TM31 höchstens 2 Liter einfüllen. Für mehr als 4 Portionen mehrere Durchgänge kochen; der Portionsrechner ändert nur die Zutatenmengen."
+}

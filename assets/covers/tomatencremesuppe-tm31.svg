@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="760" viewBox="0 0 1000 760" role="img" aria-labelledby="title desc">
+<title id="title">Tomatencremesuppe</title>
+<desc id="desc">Illustration einer Schale roter Tomatensuppe mit heller Creme und Basilikum.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f0d6c0"/><stop offset="1" stop-color="#d5aa91"/></linearGradient>
+  <radialGradient id="bowl"><stop stop-color="#fffdf5"/><stop offset=".85" stop-color="#f6f0e4"/><stop offset="1" stop-color="#d7cbbb"/></radialGradient>
+  <radialGradient id="soup" cx=".4" cy=".35"><stop stop-color="#e17a45"/><stop offset=".6" stop-color="#ce5834"/><stop offset="1" stop-color="#a93826"/></radialGradient>
+  <g id="leaf"><path d="M0 32C-45 8-39-38 0-43C37-24 39 10 0 32Z" fill="#537a42"/><path d="M0 30L0-33M0 8L-21-11M0-4L19-22" fill="none" stroke="#85a363" stroke-width="3"/></g>
+  <g id="tomato"><circle r="47" fill="#ba422d"/><ellipse cx="-9" cy="-13" rx="28" ry="22" fill="#dd6744"/><path d="M0-40L7-23L25-31L15-13L30-2L8-5L-5 9L-7-12L-27-18L-10-24Z" fill="#527043"/></g>
+</defs>
+<rect width="1000" height="760" fill="url(#bg)"/>
+<path d="M0 85Q270-20 510 80T1000 62V0H0Z" fill="#fff7e9" opacity=".38"/>
+<path d="M805 430L1000 337V760H866Z" fill="#f8eddc" opacity=".45"/>
+<ellipse cx="505" cy="407" rx="330" ry="288" fill="#78523c" opacity=".19"/>
+<circle cx="500" cy="375" r="301" fill="#fffcf5" stroke="#d8cbbb" stroke-width="13"/>
+<circle cx="500" cy="375" r="275" fill="url(#bowl)" stroke="#ece3d4" stroke-width="12"/>
+<circle cx="500" cy="375" r="248" fill="url(#soup)"/>
+<circle cx="500" cy="375" r="239" fill="none" stroke="#ee9461" stroke-width="4" opacity=".4"/>
+<path d="M410 289C450 251 583 270 606 324C633 390 531 434 451 412C372 390 403 321 478 320C560 318 577 375 510 384C464 391 451 360 481 352" fill="none" stroke="#fff0d6" stroke-width="17" stroke-linecap="round" opacity=".92"/>
+<g fill="#f6b07a" opacity=".42"><circle cx="340" cy="346" r="5"/><circle cx="590" cy="488" r="4"/><circle cx="402" cy="502" r="5"/><circle cx="657" cy="350" r="4"/><circle cx="534" cy="198" r="3"/><circle cx="357" cy="427" r="3"/></g>
+<g fill="#77513a" opacity=".8"><circle cx="442" cy="245" r="2.5"/><circle cx="575" cy="445" r="2.5"/><circle cx="390" cy="399" r="2"/><circle cx="620" cy="301" r="2"/><circle cx="487" cy="457" r="2.5"/><circle cx="556" cy="255" r="2"/></g>
+<use href="#leaf" transform="translate(527 351) rotate(28) scale(.95)"/>
+<use href="#leaf" transform="translate(486 350) rotate(-46) scale(.83)"/>
+<use href="#leaf" transform="translate(507 389) rotate(145) scale(.76)"/>
+<use href="#tomato" transform="translate(128 572) rotate(-12)"/>
+<use href="#tomato" transform="translate(188 634) rotate(18) scale(.85)"/>
+<use href="#leaf" transform="translate(849 170) rotate(33) scale(1.2)"/>
+<use href="#leaf" transform="translate(888 215) rotate(119) scale(.92)"/>
+</svg>
