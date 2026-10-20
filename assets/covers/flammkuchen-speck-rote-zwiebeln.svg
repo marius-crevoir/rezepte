@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="760" viewBox="0 0 1000 760" role="img" aria-labelledby="title desc">
+<title id="title">Flammkuchen mit Speck und roten Zwiebeln</title><desc id="desc">Illustration eines Flammkuchens mit Schmand, Speckwürfeln, roten Zwiebelringen und Kräutern.</desc>
+<defs>
+<linearGradient id="bg"><stop stop-color="#eee0c9"/><stop offset="1" stop-color="#cdb28d"/></linearGradient>
+<radialGradient id="cream"><stop stop-color="#fff9e9"/><stop offset="1" stop-color="#eee0c1"/></radialGradient>
+<g id="bacon"><rect x="-18" y="-13" width="36" height="26" rx="5" fill="#b96652" stroke="#945142" stroke-width="2"/><path d="M-12-5L11-5M-8 5L12 5" stroke="#e1aa8d" stroke-width="5"/></g>
+<g id="onion" fill="none"><ellipse rx="34" ry="25" stroke="#945579" stroke-width="6"/><ellipse rx="22" ry="15" stroke="#bc819c" stroke-width="4"/></g>
+<g id="herb" fill="#557645"><path d="M0 10C-28 0-24-20-6-17C-14-37 14-37 10-16C30-25 39-4 14 1L0 10Z"/><path d="M0 12L7-16" fill="none" stroke="#759655" stroke-width="3"/></g>
+</defs>
+<rect width="1000" height="760" fill="url(#bg)"/><path d="M0 73Q290-15 516 81T1000 70V0H0Z" fill="#fff7e8" opacity=".4"/>
+<g transform="rotate(-7 500 380)">
+<rect x="135" y="129" width="750" height="530" rx="65" fill="#715536" opacity=".15"/>
+<rect x="121" y="110" width="750" height="530" rx="60" fill="#aa7e50"/><rect x="137" y="126" width="718" height="498" rx="49" fill="#c99a65"/>
+<path d="M226 170Q491 146 755 170Q823 190 816 264L811 504Q804 577 727 583L265 580Q191 579 184 508L181 252Q180 189 226 170Z" fill="#e2b879" stroke="#a57038" stroke-width="5"/>
+<path d="M245 197Q494 173 742 195Q788 208 786 268L781 494Q779 547 726 551L270 548Q220 546 214 500L211 264Q208 214 245 197Z" fill="url(#cream)"/>
+<g fill="#bc824b" opacity=".6"><ellipse cx="295" cy="186" rx="25" ry="5"/><ellipse cx="647" cy="569" rx="29" ry="5"/><ellipse cx="195" cy="365" rx="5" ry="27"/><ellipse cx="801" cy="384" rx="5" ry="20"/></g>
+<use href="#onion" transform="translate(301 274) rotate(20)"/>
+<use href="#onion" transform="translate(478 236) rotate(-25)"/>
+<use href="#onion" transform="translate(688 281) rotate(35)"/>
+<use href="#onion" transform="translate(395 371) rotate(-12)"/>
+<use href="#onion" transform="translate(583 380) rotate(22)"/>
+<use href="#onion" transform="translate(294 481) rotate(-20)"/>
+<use href="#onion" transform="translate(487 491) rotate(28)"/>
+<use href="#onion" transform="translate(713 466) rotate(-35)"/>
+<use href="#bacon" transform="translate(361 246) rotate(-14)"/>
+<use href="#bacon" transform="translate(571 259) rotate(26)"/>
+<use href="#bacon" transform="translate(736 337) rotate(-15)"/>
+<use href="#bacon" transform="translate(271 357) rotate(18)"/>
+<use href="#bacon" transform="translate(472 335) rotate(-28)"/>
+<use href="#bacon" transform="translate(648 421) rotate(21)"/>
+<use href="#bacon" transform="translate(379 446) rotate(28)"/>
+<use href="#bacon" transform="translate(555 516) rotate(-18)"/>
+<use href="#bacon" transform="translate(752 506) rotate(24)"/>
+<use href="#bacon" transform="translate(256 523) rotate(-12)"/>
+<use href="#herb" transform="translate(325 328) rotate(14) scale(.8)"/>
+<use href="#herb" transform="translate(630 237) rotate(-18) scale(.8)"/>
+<use href="#herb" transform="translate(519 415) rotate(24) scale(.8)"/>
+<use href="#herb" transform="translate(371 516) rotate(-30) scale(.8)"/>
+<use href="#herb" transform="translate(729 392) rotate(14) scale(.8)"/>
+</g><use href="#herb" transform="translate(107 584) rotate(-15) scale(1.3)"/></svg>

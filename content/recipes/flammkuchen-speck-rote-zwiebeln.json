@@ -1,0 +1,51 @@
+{
+  "slug": "flammkuchen-speck-rote-zwiebeln",
+  "title": "Flammkuchen mit Speck und roten Zwiebeln",
+  "subtitle": "Fertige Flammkuchenböden mit Schmand, Speckwürfeln und roten Zwiebeln – nach Wunsch mit Bärlauch.",
+  "category": "Aus dem Ofen",
+  "tags": [
+    "Einfach",
+    "Alltag"
+  ],
+  "minutes": 25,
+  "difficulty": "Einfach",
+  "servings": 4,
+  "image": "assets/covers/flammkuchen-speck-rote-zwiebeln.svg",
+  "color": "#e8d3b5",
+  "author": "Unsere Küche",
+  "ingredients": [
+    {
+      "amount": 4,
+      "unit": "",
+      "name": "fertige Flammkuchenböden zum Belegen"
+    },
+    {
+      "amount": 300,
+      "unit": "g",
+      "name": "Schmand"
+    },
+    {
+      "amount": 300,
+      "unit": "g",
+      "name": "Speckwürfel"
+    },
+    {
+      "amount": 2,
+      "unit": "",
+      "name": "rote Zwiebeln"
+    },
+    {
+      "amount": null,
+      "unit": "",
+      "name": "Bärlauch, frisch oder getrocknet (optional)"
+    }
+  ],
+  "steps": [
+    "Backofen nach Packungsangabe der Flammkuchenböden vorheizen. Rote Zwiebeln schälen und in dünne Ringe schneiden.",
+    "Die Böden gleichmässig mit Schmand bestreichen: pro Boden 75 g verwenden.",
+    "Speckwürfel und Zwiebelringe darauf verteilen. Auf jeden Boden kommen 75 g Speckwürfel und eine halbe rote Zwiebel. Den Speck vorher nicht anbraten.",
+    "Flammkuchen nach Packungsangabe backen, bis die Böden knusprig sind. Falls nötig, in mehreren Durchgängen backen.",
+    "Nach Wunsch mit frischem oder getrocknetem Bärlauch bestreuen. Frischen Bärlauch vorher fein schneiden."
+  ],
+  "tip": "Für 4 Böden brauchst du 2 Packungen Speckwürfel à 150 g. Temperatur und Backzeit richten sich nach der Verpackung der Böden; die Gesamtzeit hängt auch von der Anzahl der Backdurchgänge ab."
+}
