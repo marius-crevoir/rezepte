@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="760" viewBox="0 0 1000 760" role="img" aria-labelledby="title desc"><title id="title">Knoblauch-Schinken-Nudeln</title><desc id="desc">Illustration cremiger Nudeln mit Schinkenstreifen und Petersilie.</desc>
+<defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#ecddcd"/><stop offset="1" stop-color="#d8bba0"/></linearGradient><radialGradient id="p"><stop stop-color="#fffdf6"/><stop offset="1" stop-color="#f0eadb"/></radialGradient></defs>
+<rect width="1000" height="760" fill="url(#g)"/><path d="M0 70Q260 -20 510 130T1000 100V0H0" fill="#f9ebce" opacity=".5"/><ellipse cx="525" cy="400" rx="337" ry="304" fill="#9d7b5c" opacity=".15"/><ellipse cx="502" cy="378" rx="328" ry="297" fill="#fcfaf1"/><ellipse cx="502" cy="379" rx="278" ry="249" fill="url(#p)" stroke="#e0d8c9" stroke-width="8"/>
+<g fill="none" stroke="#d8b976" stroke-width="22" stroke-linecap="round" opacity=".94"><path d="M285 342Q355 240 483 302T711 329"/><path d="M300 388Q402 488 534 363T718 412"/><path d="M303 420Q420 272 559 425T690 353"/><path d="M336 461Q452 342 588 472T681 449"/><path d="M354 296Q470 422 610 304T698 366"/><path d="M388 501Q489 437 617 493"/><path d="M336 362Q505 287 650 419"/></g>
+<g fill="none" stroke="#f4dfaa" stroke-width="8" stroke-linecap="round"><path d="M285 342Q355 240 483 302T711 329"/><path d="M300 388Q402 488 534 363T718 412"/><path d="M303 420Q420 272 559 425T690 353"/><path d="M336 461Q452 342 588 472T681 449"/><path d="M354 296Q470 422 610 304T698 366"/></g>
+<g fill="#d38c85" stroke="#bc7770" stroke-width="2">
+<rect x="362" y="302" width="105" height="30" rx="6" transform="rotate(-24 362 302)"/>
+<rect x="561" y="282" width="93" height="29" rx="5" transform="rotate(28 561 282)"/>
+<rect x="468" y="361" width="106" height="31" rx="5" transform="rotate(-14 468 361)"/>
+<rect x="337" y="431" width="102" height="28" rx="5" transform="rotate(24 337 431)"/>
+<rect x="580" y="418" width="97" height="30" rx="5" transform="rotate(-31 580 418)"/>
+<rect x="473" y="479" width="88" height="27" rx="5" transform="rotate(9 473 479)"/>
+</g>
+<g fill="#507b45" stroke="#42683a" stroke-width="2">
+<path d="M477 292L484 259M481 277C448 273 451 247 471 253C465 224 491 225 491 248C518 232 531 256 503 265C527 283 504 299 490 278Z"/>
+<path d="M601 474L608 445M606 461C578 456 579 435 596 439C592 413 615 416 616 435C639 422 651 442 627 449C645 467 627 478 614 461Z"/>
+<path d="M397 387L403 365M402 378C382 373 385 356 396 360C393 342 410 343 411 358C428 349 435 365 418 370C431 383 418 391 409 378Z"/>
+</g><g fill="#fff7dc" opacity=".9"><circle cx="447" cy="336" r="7"/><circle cx="565" cy="335" r="6"/><circle cx="482" cy="490" r="7"/><circle cx="661" cy="382" r="8"/></g>
+</svg>
