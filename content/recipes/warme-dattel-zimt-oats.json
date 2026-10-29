@@ -1,0 +1,76 @@
+{
+  "slug": "warme-dattel-zimt-oats",
+  "title": "Warme Dattel-Zimt-Oats mit Beeren und Walnüssen",
+  "subtitle": "Cremige warme Haferflocken mit Datteln, Zimt, Beeren und Walnüssen – in 10 Minuten fertig, auf Wunsch mit Whey.",
+  "category": "Frühstück",
+  "tags": [
+    "Schnell",
+    "Whey optional"
+  ],
+  "minutes": 10,
+  "difficulty": "Einfach",
+  "servings": 2,
+  "image": "assets/covers/warme-dattel-zimt-oats.svg",
+  "color": "#dfd0bb",
+  "author": "Unsere Küche",
+  "ingredients": [
+    {
+      "amount": 100,
+      "unit": "g",
+      "name": "zarte Haferflocken"
+    },
+    {
+      "amount": 300,
+      "unit": "ml",
+      "name": "Milch oder Hafermilch"
+    },
+    {
+      "amount": 100,
+      "unit": "ml",
+      "name": "Sahne oder Kokosmilch"
+    },
+    {
+      "amount": 3,
+      "unit": "",
+      "name": "weiche Datteln, entsteint"
+    },
+    {
+      "amount": 0.75,
+      "unit": "TL",
+      "name": "Zimt"
+    },
+    {
+      "amount": 1,
+      "unit": "Prise",
+      "name": "Salz"
+    },
+    {
+      "amount": 20,
+      "unit": "g",
+      "name": "Walnüsse"
+    },
+    {
+      "amount": 150,
+      "unit": "g",
+      "name": "Blaubeeren und Himbeeren"
+    },
+    {
+      "amount": 60,
+      "unit": "g",
+      "name": "Whey (optional)"
+    },
+    {
+      "amount": null,
+      "unit": "",
+      "name": "zusätzliche Milch für die Whey-Portionen (optional)"
+    }
+  ],
+  "steps": [
+    "Datteln klein schneiden und Walnüsse grob hacken.",
+    "Haferflocken, Milch oder Hafermilch, Sahne oder Kokosmilch, Datteln, Zimt und Salz in einen Topf geben. Aufkochen und unter Rühren 2–3 Minuten sanft köcheln lassen.",
+    "Auf zwei Schüsseln verteilen und kurz abkühlen lassen.",
+    "Optional pro gewünschter Portion 25–30 g Whey mit einem Schluck kalter Milch glatt rühren und untermischen. Bei Bedarf mit mehr Milch verdünnen. Die andere Portion kann ohne Whey bleiben.",
+    "Walnüsse und Beeren daraufgeben. Nach Geschmack mit etwas Zimt bestreuen."
+  ],
+  "tip": "Für 2 Portionen nach Geschmack 2–4 Datteln und ½–1 TL Zimt verwenden; der Portionsrechner startet mit 3 Datteln und ¾ TL Zimt. Die optionale Whey-Menge in der Zutatenliste entspricht 30 g pro Portion. Vanille-Whey süsst zusätzlich – dafür reichen meist weniger Datteln."
+}
