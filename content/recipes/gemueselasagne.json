@@ -1,0 +1,113 @@
+{
+  "slug": "gemueselasagne",
+  "title": "Gemüselasagne",
+  "subtitle": "Mit Paprika, Zucchini und Möhren, cremiger Béchamelsauce und goldener Käsekruste.",
+  "category": "Aus dem Ofen",
+  "tags": [
+    "Vegetarisch",
+    "Pasta"
+  ],
+  "minutes": 55,
+  "difficulty": "Einfach",
+  "servings": 4,
+  "image": "assets/covers/gemueselasagne.svg",
+  "color": "#e4c5a0",
+  "author": "Steffi / Gaumenfreundin",
+  "source": "https://www.gaumenfreundin.de/gemueselasagne/",
+  "ingredients": [
+    {
+      "amount": 1,
+      "unit": "",
+      "name": "Zwiebel"
+    },
+    {
+      "amount": 2,
+      "unit": "",
+      "name": "Knoblauchzehen"
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Paprika"
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Zucchini"
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Möhren"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Olivenöl"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Tomatenmark"
+    },
+    {
+      "amount": 800,
+      "unit": "g",
+      "name": "geschälte Tomaten aus der Dose"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "gehackte Petersilie (auch TK)"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Paprikapulver, edelsüss"
+    },
+    {
+      "amount": null,
+      "unit": "",
+      "name": "Salz"
+    },
+    {
+      "amount": null,
+      "unit": "",
+      "name": "Pfeffer"
+    },
+    {
+      "amount": 12,
+      "unit": "",
+      "name": "Lasagneplatten"
+    },
+    {
+      "amount": 150,
+      "unit": "g",
+      "name": "geriebener Mozzarella"
+    },
+    {
+      "amount": 50,
+      "unit": "g",
+      "name": "Butter"
+    },
+    {
+      "amount": 40,
+      "unit": "g",
+      "name": "Mehl"
+    },
+    {
+      "amount": 600,
+      "unit": "ml",
+      "name": "Milch"
+    }
+  ],
+  "steps": [
+    "Ofen auf 200 °C Ober-/Unterhitze vorheizen. Zwiebel und Knoblauch hacken. Paprika, Zucchini und Möhren putzen, grob schneiden und im Mixer fein zerkleinern.",
+    "Zwiebel und Knoblauch im Olivenöl andünsten. Gemüse und Tomatenmark kurz mitrösten. Dosentomaten samt Saft, Petersilie und Paprikapulver dazugeben, salzen und pfeffern. 5 Minuten köcheln lassen.",
+    "Für die Béchamel Butter schmelzen, Mehl mit dem Schneebesen einrühren. Milch portionsweise unter ständigem Rühren hinzufügen. Aufkochen und cremig einköcheln lassen. Mit Salz und Pfeffer abschmecken.",
+    "Etwas Gemüsesauce in eine Auflaufform geben. Lasagneplatten, Gemüsesauce und Béchamel wiederholt einschichten; mit Sauce abschliessen.",
+    "Mozzarella darüberstreuen und etwa 30 Minuten backen.",
+    "Vor dem Anschneiden kurz ruhen lassen."
+  ],
+  "tip": "Das Original erlaubt 600 g Gemüse nach Wahl. Für die Einkaufsliste sind je 200 g Paprika, Zucchini und Möhren angesetzt. Für mehr Biss einen Teil nur fein würfeln."
+}
