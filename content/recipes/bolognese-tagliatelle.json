@@ -1,0 +1,93 @@
+{
+  "slug": "bolognese-tagliatelle",
+  "title": "Bolognese mit Tagliatelle",
+  "subtitle": "Langsam geschmortes Rinderragù mit stückigen Tomaten, feinem Gemüse und Tagliatelle.",
+  "category": "Pasta",
+  "tags": [
+    "Rindfleisch",
+    "Zum Vorkochen"
+  ],
+  "minutes": 180,
+  "difficulty": "Einfach",
+  "servings": 6,
+  "image": "assets/covers/bolognese-tagliatelle.svg",
+  "color": "#e0bea3",
+  "author": "Unsere Küche · nach Accademia Italiana della Cucina",
+  "source": "https://www.bo.camcom.it/en/node/4213",
+  "ingredients": [
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "grob gewolftes Rinderhack (möglichst Schulter oder Brust)"
+    },
+    {
+      "amount": 60,
+      "unit": "g",
+      "name": "Zwiebel"
+    },
+    {
+      "amount": 60,
+      "unit": "g",
+      "name": "Karotte"
+    },
+    {
+      "amount": 60,
+      "unit": "g",
+      "name": "Stangensellerie"
+    },
+    {
+      "amount": 125,
+      "unit": "ml",
+      "name": "trockener Rot- oder Weisswein"
+    },
+    {
+      "amount": 400,
+      "unit": "g",
+      "name": "stückige Tomaten"
+    },
+    {
+      "amount": 1,
+      "unit": "EL",
+      "name": "Tomatenmark, zweifach konzentriert"
+    },
+    {
+      "amount": 3,
+      "unit": "EL",
+      "name": "Olivenöl"
+    },
+    {
+      "amount": 125,
+      "unit": "ml",
+      "name": "leichte Fleisch- oder Gemüsebrühe (bei Bedarf mehr)"
+    },
+    {
+      "amount": 125,
+      "unit": "ml",
+      "name": "Vollmilch (optional)"
+    },
+    {
+      "amount": null,
+      "unit": "",
+      "name": "Salz"
+    },
+    {
+      "amount": null,
+      "unit": "",
+      "name": "Pfeffer"
+    },
+    {
+      "amount": 600,
+      "unit": "g",
+      "name": "Tagliatelle, trocken"
+    }
+  ],
+  "steps": [
+    "Zwiebel, Karotte und Stangensellerie sehr fein schneiden. Olivenöl in einem schweren Topf erhitzen und das Gemüse bei niedriger bis mittlerer Hitze weich dünsten, ohne es dunkel werden zu lassen.",
+    "Hitze erhöhen, Rinderhack zugeben und unter Rühren etwa 10 Minuten kräftig anbraten.",
+    "Wein angiessen und vollständig einkochen lassen. Tomatenmark und stückige Tomaten einrühren.",
+    "Zunächst die angegebene Brühe heiss hinzufügen: für die Ausgangsmenge 100–150 ml. Zugedeckt bei niedriger Hitze 2–3 Stunden sanft schmoren. Gelegentlich umrühren und nur bei Bedarf weitere heisse Brühe nachgiessen.",
+    "Optional die Vollmilch nach ungefähr der Hälfte der Garzeit hinzufügen und einkochen lassen. Das fertige Ragù soll dick und cremig sein. Mit Salz und Pfeffer abschmecken.",
+    "Tagliatelle gegen Ende der Schmorzeit nach Packungsangabe in Salzwasser bissfest kochen. Abgiessen, mit dem Ragù vermengen und servieren."
+  ],
+  "tip": "Unsere Anpassung der traditionellen Referenzfassung: ohne Pancetta und mit 400 g stückigen Tomaten. Für die Brühe startet der Portionsrechner mit 125 ml; zunächst reichen je nach Tomaten 100–150 ml für 6 Portionen. Die Vollmilch bleibt optional. Je nach Schmorzeit insgesamt etwa 2½–3½ Stunden einplanen."
+}
