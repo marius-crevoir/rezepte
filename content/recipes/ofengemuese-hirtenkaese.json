@@ -1,0 +1,81 @@
+{
+  "slug": "ofengemuese-hirtenkaese",
+  "title": "Ofengemüse mit Hirtenkäse",
+  "subtitle": "Kartoffeln, Paprika, Zucchini und Aubergine vom Blech – mit Hirtenkäse nach dem Backen.",
+  "category": "Aus dem Ofen",
+  "tags": [
+    "Vegetarisch",
+    "Alltag"
+  ],
+  "minutes": 45,
+  "difficulty": "Einfach",
+  "servings": 4,
+  "image": "assets/covers/ofengemuese-hirtenkaese.svg",
+  "color": "#dbd6ba",
+  "author": "Unsere Küche · nach Steffi / Gaumenfreundin",
+  "source": "https://www.gaumenfreundin.de/ofengemuese/",
+  "ingredients": [
+    {
+      "amount": 500,
+      "unit": "g",
+      "name": "kleine Kartoffeln (Drillinge)"
+    },
+    {
+      "amount": 2,
+      "unit": "",
+      "name": "Paprikaschoten"
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Zucchini"
+    },
+    {
+      "amount": 1,
+      "unit": "",
+      "name": "kleine Aubergine"
+    },
+    {
+      "amount": 2,
+      "unit": "",
+      "name": "rote Zwiebeln"
+    },
+    {
+      "amount": 2,
+      "unit": "",
+      "name": "Knoblauchzehen"
+    },
+    {
+      "amount": 5,
+      "unit": "EL",
+      "name": "Olivenöl"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Kräuter der Provence"
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Hirtenkäse"
+    },
+    {
+      "amount": null,
+      "unit": "",
+      "name": "Salz"
+    },
+    {
+      "amount": null,
+      "unit": "",
+      "name": "Pfeffer"
+    }
+  ],
+  "steps": [
+    "Backofen auf 200 °C Ober-/Unterhitze vorheizen. Kartoffeln waschen und halbieren; grössere Exemplare vierteln. Paprika in Streifen, Zucchini und Aubergine in halbe Scheiben und die roten Zwiebeln in Ringe schneiden.",
+    "Knoblauch fein hacken und mit Olivenöl sowie Kräutern der Provence verrühren. Kartoffeln und Gemüse mit der Marinade vermischen. Mit wenig Salz und Pfeffer würzen.",
+    "Auf einem mit Backpapier belegten Blech verteilen. Etwa 30 Minuten backen. Prüfen, ob die Kartoffeln weich sind, und bei Bedarf länger garen.",
+    "Das Blech aus dem Ofen nehmen. Hirtenkäse zerbröseln und erst jetzt über das fertige Gemüse verteilen. Warm servieren."
+  ],
+  "tip": "Gemüse möglichst in einer Lage verteilen; bei Bedarf zwei Bleche verwenden. Der Hirtenkäse kommt nach dem Backen dazu und bringt bereits Salz mit. Die Menge von 200 g Hirtenkäse ist für 4 Portionen angesetzt."
+}

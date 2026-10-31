@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="760" viewBox="0 0 1000 760" role="img" aria-labelledby="title desc">
+<title id="title">Ofengemüse mit Hirtenkäse</title><desc id="desc">Illustration eines Blechs mit Kartoffeln, Paprika, Zucchini, Aubergine, roten Zwiebeln und weissen Käsewürfeln.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#e3e2c9"/><stop offset="1" stop-color="#bfc7a9"/></linearGradient>
+<g id="potato"><path d="M-34 18Q-39-23-5-32Q26-37 37-4L12 30Z" fill="#dbb468" stroke="#aa8349" stroke-width="3"/><path d="M-20 12Q-23-12-3-20L22-8" fill="none" stroke="#f0d49c" stroke-width="8"/></g>
+<g id="pepper"><path d="M-40 22Q-51-27-14-34Q19-44 42-13L24 29L6 19L13-9Q-12-25-18-4L-14 20Z" fill="#c45c39" stroke="#a74630" stroke-width="2"/></g>
+<g id="zucchini"><ellipse rx="32" ry="25" fill="#4f7444"/><ellipse rx="24" ry="18" fill="#b4c28c"/><path d="M-12-6L-5-2M10-5L4 1M0 10L1 5" stroke="#e6e2b6" stroke-width="5"/></g>
+<g id="aubergine"><path d="M-35 14Q-44-27-5-31Q30-30 35 12Z" fill="#655167"/><path d="M-26 10Q-31-19-4-22Q20-23 25 9Z" fill="#c5b68d"/></g>
+<g id="onion" fill="none"><ellipse rx="36" ry="26" stroke="#986077" stroke-width="7"/><ellipse rx="23" ry="16" stroke="#c394aa" stroke-width="4"/></g>
+<g id="cheese"><rect x="-20" y="-17" width="40" height="34" rx="4" fill="#fffae9" stroke="#ded4bb" stroke-width="2"/><path d="M-11-7L8-10M-4 7L10 5" stroke="#eee4ce" stroke-width="3"/></g>
+</defs><rect width="1000" height="760" fill="url(#bg)"/>
+<g transform="rotate(-5 500 375)"><rect x="160" y="112" width="700" height="560" rx="48" fill="#526046" opacity=".2"/><rect x="147" y="92" width="700" height="560" rx="48" fill="#424741"/><rect x="174" y="119" width="646" height="506" rx="29" fill="#c6bcaa"/>
+<use href="#potato" transform="translate(258 204) rotate(-20)"/>
+<use href="#potato" transform="translate(498 195) rotate(15)"/>
+<use href="#potato" transform="translate(738 236) rotate(30)"/>
+<use href="#potato" transform="translate(275 493) rotate(-25)"/>
+<use href="#potato" transform="translate(525 542) rotate(25)"/>
+<use href="#potato" transform="translate(715 548) rotate(-10)"/>
+<use href="#pepper" transform="translate(367 233) rotate(20)"/>
+<use href="#pepper" transform="translate(640 302) rotate(-20)"/>
+<use href="#pepper" transform="translate(404 472) rotate(40)"/>
+<use href="#pepper" transform="translate(727 422) rotate(-15)"/>
+<use href="#zucchini" transform="translate(271 325) rotate(-10)"/>
+<use href="#zucchini" transform="translate(524 282) rotate(20)"/>
+<use href="#zucchini" transform="translate(603 458) rotate(-20)"/>
+<use href="#zucchini" transform="translate(359 555) rotate(20)"/>
+<use href="#zucchini" transform="translate(733 324) rotate(15)"/>
+<use href="#aubergine" transform="translate(398 344) rotate(35)"/>
+<use href="#aubergine" transform="translate(644 207) rotate(-25)"/>
+<use href="#aubergine" transform="translate(252 411) rotate(-15)"/>
+<use href="#aubergine" transform="translate(660 561) rotate(25)"/>
+<use href="#aubergine" transform="translate(481 410) rotate(15)"/>
+<use href="#onion" transform="translate(375 414) rotate(-20)"/>
+<use href="#onion" transform="translate(555 367) rotate(30)"/>
+<use href="#onion" transform="translate(667 490) rotate(-30)"/>
+<use href="#cheese" transform="translate(327 281) rotate(-10)"/>
+<use href="#cheese" transform="translate(585 221) rotate(25)"/>
+<use href="#cheese" transform="translate(686 364) rotate(-20)"/>
+<use href="#cheese" transform="translate(466 329) rotate(15)"/>
+<use href="#cheese" transform="translate(317 448) rotate(20)"/>
+<use href="#cheese" transform="translate(527 473) rotate(-25)"/>
+<use href="#cheese" transform="translate(422 559) rotate(12)"/>
+<use href="#cheese" transform="translate(753 497) rotate(20)"/>
+<g fill="#557447"><path d="M450 237l18-13-7 25zM586 530l21-16-8 25zM226 549l13-23 7 27zM703 193l20-10-9 21z"/></g></g></svg>
