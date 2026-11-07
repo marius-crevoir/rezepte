@@ -1,0 +1,70 @@
+{
+  "slug": "zucchinisuppe",
+  "title": "Cremige Zucchinisuppe",
+  "subtitle": "Eine einfache Suppe aus Zucchini und Kartoffeln, mit einem Schuss Sahne.",
+  "category": "Suppen",
+  "tags": [
+    "Vegetarisch",
+    "Alltag"
+  ],
+  "minutes": 30,
+  "difficulty": "Einfach",
+  "servings": 4,
+  "image": "assets/covers/zucchinisuppe.svg",
+  "color": "#d5dfbc",
+  "author": "Steffi / Gaumenfreundin",
+  "source": "https://www.gaumenfreundin.de/einfache-zucchinisuppe/",
+  "ingredients": [
+    {
+      "amount": 800,
+      "unit": "g",
+      "name": "Zucchini"
+    },
+    {
+      "amount": 1,
+      "unit": "",
+      "name": "Zwiebel"
+    },
+    {
+      "amount": 1,
+      "unit": "",
+      "name": "Knoblauchzehe"
+    },
+    {
+      "amount": 200,
+      "unit": "g",
+      "name": "Kartoffeln"
+    },
+    {
+      "amount": 2,
+      "unit": "EL",
+      "name": "Olivenöl"
+    },
+    {
+      "amount": 1,
+      "unit": "l",
+      "name": "Gemüsebrühe"
+    },
+    {
+      "amount": 100,
+      "unit": "ml",
+      "name": "Sahne"
+    },
+    {
+      "amount": null,
+      "unit": "",
+      "name": "Salz"
+    },
+    {
+      "amount": null,
+      "unit": "",
+      "name": "Pfeffer"
+    }
+  ],
+  "steps": [
+    "Zucchini in grobe Stücke schneiden. Kartoffeln schälen und kleiner würfeln. Zwiebel und Knoblauch fein schneiden.",
+    "Olivenöl im Topf erwärmen und das vorbereitete Gemüse darin rund 5 Minuten bei mittlerer Hitze anschwitzen.",
+    "Mit Gemüsebrühe aufgiessen und rund 20 Minuten leise kochen, bis die Kartoffeln weich sind.",
+    "Topf vom Herd nehmen, Sahne einrühren und die Suppe mit dem Stabmixer glatt pürieren. Mit Salz und Pfeffer abschmecken."
+  ]
+}
